@@ -38,7 +38,6 @@
   "router-mode": false,
   "set-system-proxy": true,
   "allow-connection-from-lan": true,
-  "lan-sharing-password": "zer8-rkhn",
   "lan-sharing-port": 12338,
   "local-proxy-auth": false,
   "local-proxy-in-vpn": false,
@@ -127,7 +126,6 @@
   "extra-security": {
     "mode": "warp_auto",
     "warp": {
-      "license-key": "",
       "endpoint": "profile",
       "clean-ip": "",
       "clean-port": 0,
@@ -146,7 +144,6 @@
   "unblocker": {
     "mode": "warp_awg",
     "warp": {
-      "license-key": "",
       "endpoint": "custom",
       "clean-ip": "162.159.192.1",
       "clean-port": 500,
