@@ -30,7 +30,7 @@
       "type": "warp",
       "tag": "V0R7X WARP AWG 2 §hide§",
       "unique_identifier": "v0r7x-warp-awg-multi-2",
-      "server": "162.159.192.2",
+      "server": "162.159.192.3",
       "server_port": 500,
       "noise": {
         "fake_packet": {
@@ -82,7 +82,7 @@
       "type": "warp",
       "tag": "V0R7X WARP AWG 4 §hide§",
       "unique_identifier": "v0r7x-warp-awg-multi-4",
-      "server": "162.159.192.2",
+      "server": "162.159.192.3",
       "server_port": 2408,
       "noise": {
         "fake_packet": {
@@ -109,7 +109,7 @@
       "tag": "V0R7X WARP AWG 5 §hide§",
       "unique_identifier": "v0r7x-warp-awg-multi-5",
       "server": "162.159.192.1",
-      "server_port": 4500,
+      "server_port": 1701,
       "noise": {
         "fake_packet": {
           "count": "",
